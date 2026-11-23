@@ -1,8 +1,8 @@
 # BTC Race Bot — Washout Recovery Hybrid
 
-[![make.fun bounty](https://make.fun/badge/btc-race-24h-20261123-0511.svg)](https://make.fun/bounty/btc-race-24h-20261123-0511)
-[![make.fun rank](https://make.fun/badge/aryaadityam/btc-race-bot/rank.svg)](https://make.fun/bounty/btc-race-24h-20261123-0511)
-[![make.fun reward](https://make.fun/badge/aryaadityam/btc-race-bot/reward.svg)](https://make.fun/bounty/btc-race-24h-20261123-0511)
+[![make.fun · btc-race-24h-20261123-0511](https://make.fun/badge/btc-race-24h-20261123-0511.svg)](https://make.fun/bounty/btc-race-24h-20261123-0511?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261123-0511)
+[![rank](https://make.fun/badge/btc-race-24h-20261123-0511/aryaadityam/btc-race-bot/rank.svg)](https://make.fun/bounty/btc-race-24h-20261123-0511/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261123-0511)
+[![reward](https://make.fun/badge/btc-race-24h-20261123-0511/aryaadityam/btc-race-bot/reward.svg)](https://make.fun/bounty/btc-race-24h-20261123-0511?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261123-0511)
 
 A BTC trading bot for the make.fun competition
 [btc-race-24h-20261123-0511](https://make.fun/bounty/btc-race-24h-20261123-0511)
